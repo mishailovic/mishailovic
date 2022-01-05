@@ -1,2 +1,1 @@
-![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ah1nu72wieyxibozxyrrvvpai)
-
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=ah1nu72wieyxibozxyrrvvpai&count=10)
